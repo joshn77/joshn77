@@ -1,7 +1,8 @@
 {
-  "servers": [
-    {
-      "name": "joshn77",
-      "address": "https://refreshingserver.onrender.com"
-    }
-  ]
+    "servers": [
+        {
+            "name": "joshn77",
+            "address": "https://refreshingserver.onrender.com"
+        }
+    ]
+}
